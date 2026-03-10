@@ -1,0 +1,4 @@
+{
+  "report_type": "review",
+  "fields": ["title", "date", "review_count", "sentiment", "top_praise", "top_complaints", "summary"]
+}
