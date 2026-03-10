@@ -1,0 +1,9 @@
+{
+  "title": "Example Book",
+  "date": "2026-03-09",
+  "review_count": 214,
+  "sentiment": "mostly positive",
+  "top_praise": ["easy to follow", "useful advice"],
+  "top_complaints": ["wanted more examples"],
+  "summary": "Readers respond well to clarity and practical value."
+}
