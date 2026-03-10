@@ -1,0 +1,9 @@
+{
+  "name": "keyword-monitor",
+  "version": "0.1.0",
+  "status": "draft",
+  "purpose": "Track keyword opportunities and changes in discoverability signals.",
+  "inputs": ["keyword lists", "search trends", "ranking changes"],
+  "outputs": ["keyword report", "trend alerts", "opportunity clusters"],
+  "owner": "Metameros"
+}
