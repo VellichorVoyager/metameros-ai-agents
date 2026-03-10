@@ -1,0 +1,9 @@
+{
+  "name": "ranking-analyzer",
+  "version": "0.1.0",
+  "status": "draft",
+  "purpose": "Analyze Amazon ranking and category performance signals for books and authors.",
+  "inputs": ["ranking history", "category data", "pricing data"],
+  "outputs": ["trend summary", "momentum alerts", "ranking report"],
+  "owner": "Metameros"
+}
