@@ -1,0 +1,4 @@
+{
+  "report_type": "ranking",
+  "fields": ["title", "date", "bsr", "category_rank", "price", "summary"]
+}
