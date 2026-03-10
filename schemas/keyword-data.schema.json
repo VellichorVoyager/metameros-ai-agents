@@ -1,0 +1,4 @@
+{
+  "report_type": "keyword",
+  "fields": ["keyword", "trend", "cluster", "priority", "notes"]
+}
