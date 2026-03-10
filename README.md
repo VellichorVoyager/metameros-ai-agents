@@ -57,7 +57,6 @@ Tracks keyword opportunities across Amazon and search behavior, including:
 
 ## Repository Structure
 
-```text
 agents/      Individual agent definitions and configs
 workflows/   Cross-agent operating workflows
 schemas/     Structured data formats for outputs
