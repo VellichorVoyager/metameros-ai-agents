@@ -1,0 +1,9 @@
+{
+  "name": "review-summarizer",
+  "version": "0.1.0",
+  "status": "draft",
+  "purpose": "Summarize customer reviews into insights for publishing and marketing decisions.",
+  "inputs": ["review text", "star ratings", "review dates"],
+  "outputs": ["theme summary", "sentiment report", "reader insight brief"],
+  "owner": "Metameros"
+}
