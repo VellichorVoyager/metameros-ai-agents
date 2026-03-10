@@ -1,0 +1,9 @@
+{
+  "name": "competitor-scout",
+  "version": "0.1.0",
+  "status": "draft",
+  "purpose": "Monitor competing titles and surface patterns in positioning, pricing, and market presence.",
+  "inputs": ["competitor titles", "pricing data", "reviews", "category data"],
+  "outputs": ["competitive snapshot", "gap analysis", "comparison report"],
+  "owner": "Metameros"
+}
