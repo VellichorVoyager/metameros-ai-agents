@@ -1,1 +1,54 @@
+# Environment variables
+.env
+.env.local
+.env.production
+.env.development
 
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Build
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.swp
+
+# Secrets
+secrets.json
+credentials.json
+config.local.json
+
+# Large data
+data/
+datasets/
+scraped-data/
+
+# AI models
+models/
+checkpoints/
